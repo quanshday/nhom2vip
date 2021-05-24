@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qx+0/d7ST/08eh3wo3wPrOF32IKLmN68z2p3lzls3H04oRqSgRk5suDw0wjJNw06kI1iuST30jQT4wQxe9PjVA==",
+  "success": true,
+  "projectFilePath": "/Users/macad/Projects/Nhom/Nhom2vip/Nhom2vip.iOS/Nhom2vip.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/macad/.nuget/packages/firebasedatabase.net/4.0.6/firebasedatabase.net.4.0.6.nupkg.sha512",
+    "/Users/macad/.nuget/packages/litedb/4.1.4/litedb.4.1.4.nupkg.sha512",
+    "/Users/macad/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/Users/macad/.nuget/packages/sharpnado.materialframe/1.1.4/sharpnado.materialframe.1.1.4.nupkg.sha512",
+    "/Users/macad/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/macad/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/macad/.nuget/packages/system.reactive/4.0.0/system.reactive.4.0.0.nupkg.sha512",
+    "/Users/macad/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/macad/.nuget/packages/system.reflection.typeextensions/4.3.0/system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "/Users/macad/.nuget/packages/system.runtime.interopservices.windowsruntime/4.3.0/system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "/Users/macad/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/macad/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "/Users/macad/.nuget/packages/xamarin.forms.pancakeview/2.3.0.759/xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512"
+  ],
+  "logs": []
+}
